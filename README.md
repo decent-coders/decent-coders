@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hridoy
-- 😄 Pronouns: Ree-Doy
+- 😄 Pronunciation: Ree-Doy
 
 <!---
 decent-coders/decent-coders is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
